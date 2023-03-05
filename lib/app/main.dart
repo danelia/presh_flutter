@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // import 'package:preshfood_app/app/config/enviornment/env.dart';
-// import 'package:preshfood_app/app/conmon/thene/style_variables.dart';
+import 'package:preshfood_app/app/common/theme/style_variables.dart';
 // import 'package:preshfood_app/app/config/enviornment/env.dart';
 // import 'package:preshfood_app/app/routes/app_pages.dart';
 
